@@ -10,4 +10,4 @@ switchDelay - How long the duty cycle of the pulse should be (default: 500 msec)
 
 Circuit Diagram:
 
-
+![Circuit Diagram](https://raw.githubusercontent.com/NaubaharAgha/BatteryPackStayOn/master/images/circuit.png)
